@@ -1,0 +1,4 @@
+NOM;SUBNET;SERVICES;SECURITY_GROUP
+VITTORIO-MACHINE-WEB1;subnet-0c59a465aaea21d4a;install_web.sh;sg-02ebf81c9fd2d0b68
+VITTORIO-MACHINE-WEB2;subnet-0c59a465aaea21d4a;install_web.sh;sg-02ebf81c9fd2d0b68
+VITTORIO-MACHINE-WEB3;subnet-0c59a465aaea21d4a;install_web.sh;sg-02ebf81c9fd2d0b68

@@ -16,3 +16,5 @@ cat ARCHITECTURE/provider.tf
 cd ARCHITECTURE
 terraform init
 
+echo "Done with init of tf !!!!"
+

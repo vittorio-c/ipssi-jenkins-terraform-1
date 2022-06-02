@@ -1,0 +1,12 @@
+output "public_ip_of_server_1" {
+  value = ["${aws_instance.VITTORIO-MACHINE-WEB1.public_ip}"]
+}
+
+output "public_ip_of_server_2" {
+  value = ["${aws_instance.VITTORIO-MACHINE-WEB2.public_ip}"]
+}
+
+output "public_ip_of_server_3" {
+  value = ["${aws_instance.VITTORIO-MACHINE-WEB3.public_ip}"]
+}
+
