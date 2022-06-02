@@ -4,9 +4,9 @@ Add this repository to jenkins :
 
 ![](./medias/git.png)
 
-And set up two separate steps to perform the job :
+And set up three separate steps to perform the job :
 
-![](./medias/steps.png)
+![](./medias/three_steps.png)
 
 This job will deploy 3 webservers and return corresponding public IP adress :
 
